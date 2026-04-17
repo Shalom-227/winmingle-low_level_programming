@@ -7,3 +7,4 @@ This project provides a basic introduction to the **C programming language**, co
 - Simple C programs
 - How executables are created
 - Clean C coding standards
+- Demonstrating `stderr` vs `stdout`
