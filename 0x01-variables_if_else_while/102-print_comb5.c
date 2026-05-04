@@ -19,7 +19,7 @@ int main(){
 
 	while(countV2 <= maxDoubleDigit){
 
-	        printf("%d %d", countV1, countV2);
+	        printf("%02d %02d", countV1, countV2);
 		
                 if(!(countV1 == 98 && countV2 == maxDoubleDigit )){
 	            putchar(',');
